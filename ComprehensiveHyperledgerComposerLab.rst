@@ -859,7 +859,7 @@ The Composer REST Server reads a Business Network definition and exposes public 
 
 **Step 3:** Use *npm* to install the Composer REST server (output not shown)::
 
- bcuser@ubuntu16042:~$ npm install -g composer-rest-server
+ bcuser@ubuntu16042:~$ npm install -g composer-rest-server@0.11.3
 
 **Step 4:** Upon completion, verify that it is installed::
 

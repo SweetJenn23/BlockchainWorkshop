@@ -7,10 +7,10 @@
 | **Time**            | **Topic**                                |
 | ------------------- | ---------------------------------------- |
 | 9:00 AM – 9:30 AM   | Welcome & Introductions                  |
-| 9:30 AM – 10:30 AM  | Presentation: Blockchain & Hyperledger Fabric Overview |
+| 9:30 AM – 10:30 AM  | Presentation: Blockchain Explained       |
 | 10:30 AM – 12:00 PM | Lab + Break: Hyperledger Fabric  Installation & Verification |
 | 12:00 PM – 1:00 PM  | **LUNCH**                                |
-| 1:00 PM – 2:00 PM   | Presentation: Hyperledger Fabric  Architecture |
+| 1:00 PM – 2:00 PM   | Presentation: Blockchain Explored        |
 | 2:00 PM – 5:00 PM   | Labs + Break: Marbles Smart Contract Install & Marbles  Web UI |
 
 
@@ -21,7 +21,7 @@
 
 | **Time**            | **Topic**                                |
 | ------------------- | ---------------------------------------- |
-| 9:00 AM – 10:00 AM  | Presentation: Hyperledger  Composer Overview |
+| 9:00 AM – 10:00 AM  | Presentation: Blockchain Composed        |
 | 10:00 AM – 11:30 AM | Lab + Break: Car Auction Lab             |
 | 11:30 AM – 12:30 PM | **LUNCH**                                |
 | 12:30 PM – 1:30 PM  | Presentation: Hyperledger Composer Architecture |
@@ -36,7 +36,7 @@
 | **Time**            | **Topic**                                |
 | ------------------- | ---------------------------------------- |
 | 9:00 AM – 9:45 AM   | Presentation: Hyperledger Fabric  Security Considerations |
-| 10:00 AM – 11:30 AM | Presentation: Making Blockchain Real     |
+| 10:00 AM – 11:30 AM | Presentation: Blockchain Solutions       |
 | 11:30 AM – 12:30 PM | **LUNCH**                                |
 | 12:30 PM – 2:00 PM  | Lab: A Developer’s Journey on LinuxONE Community Cloud |
 | 2:00 PM – 2:15 PM   | Wrap up & Questions                      |
